@@ -98,6 +98,20 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>branch_test_20</element>
+            <position>7</position>
+            <sys_created_by>sai.chilamkurthi</sys_created_by>
+            <sys_created_on>2022-02-01 17:39:03</sys_created_on>
+            <sys_id>03af1f5bdbddc550d91fae5a48961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sclo_branches_fo_branch_test" sys_domain="global" view="Default view">6f07568fdb958550d91fae5a4896197c</sys_ui_section>
+            <sys_updated_by>sai.chilamkurthi</sys_updated_by>
+            <sys_updated_on>2022-02-01 17:39:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>
